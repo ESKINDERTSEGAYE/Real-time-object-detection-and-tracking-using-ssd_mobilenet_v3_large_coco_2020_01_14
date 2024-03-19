@@ -23,7 +23,7 @@ def check_login():
         window = Toplevel(root)
         window.title("Thullium_X")
         window.geometry("1000x1000")
-        window.iconbitmap("/Alternance-Copernilabs/Approche-du-problème/Stream/coper.ico")
+        window.iconbitmap("C:/Users/lenovo/Desktop/cctv-test1/coper.ico")
         window.minsize(300, 240)
 
         nav_bar = Menu(window)
